@@ -1,6 +1,10 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h3>
+      The
+      <a target="_blank" href="https://github.com/daletom/video-sdk-test">Github Repo</a> 
+      is public for you to view.
+    </h3>
   </div>
 </template>
 

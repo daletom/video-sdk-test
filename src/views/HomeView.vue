@@ -6,11 +6,12 @@ import {IxVideo} from '@imgix/web-components'
 <template>
   <main>
     <div
-    style="width: 500px; height: 500px; display: flex; justify-content: center; margin: auto"
+    class="mobile"
+    style="display: flex; justify-content: center; margin: auto"
+    width="600px"
+    height="400px"
   >
     <ix-video
-      width="600"
-      height="400"
       controls
       source="https://tomgcs.imgix.video/izzy_dance_party.mp4"
     ></ix-video>
