@@ -7,7 +7,7 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
-    "@imgix/web-components": "^0.0.1-rc.1",
+    "@imgix/web-components": "^0.0.1-rc.2",
     "vue": "^3.2.33",
     "vue-router": "^4.0.14"
   },
