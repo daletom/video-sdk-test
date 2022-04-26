@@ -83,3 +83,8 @@ body {
   width: 600px;
   height: 400px;
 }*/
+
+.flex {
+  display: block;
+  float: left;
+}
